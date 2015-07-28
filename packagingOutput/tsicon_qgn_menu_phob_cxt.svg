@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<rect fill="none" height="96" width="96"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="48.0005" x2="48.0005" y1="88" y2="8.0005">
+<stop offset="0" stop-color="#02598b"/>
+<stop offset="0.253" stop-color="#026d98"/>
+<stop offset="0.7688" stop-color="#01a1bb"/>
+<stop offset="1" stop-color="#00bacc"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="47.9995" cy="33.5469" gradientUnits="userSpaceOnUse" r="35.5926">
+<stop offset="0" stop-color="#fdfef9"/>
+<stop offset="0.2121" stop-color="#fdfef9"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</radialGradient>
+<radialGradient cx="47.8164" cy="68.2734" gradientUnits="userSpaceOnUse" r="9.2964">
+<stop offset="0" stop-color="#000000" stop-opacity="0.5"/>
+<stop offset="0.4" stop-color="#000000" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#595959" stop-opacity="0"/>
+</radialGradient>
+<rect fill="none" height="96" width="96"/>
+<g transform="matrix(0.93676815,0,0,0.93676815,7.7189695,7.7189695)">
+<g display="none"/>
+<g>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_-1" x1="0.71710002" x2="73.193901" y1="85.283302" y2="12.8066">
+<stop offset="0" stop-color="#ad0029"/>
+<stop offset="0.6976" stop-color="#d01e48"/>
+<stop offset="1" stop-color="#e02d57"/>
+</linearGradient>
+<path d="M 43.0 0.3 C 19.418 0.3 0.3 19.418 0.3 43.0 L 0.3 84.277 C 0.3 85.063 0.93700004 85.7 1.723 85.7 L 43.0 85.7 C 66.585 85.7 85.7 66.582 85.7 43.0 C 85.7 19.418 66.585 0.3 43.0 0.3 z " fill="url(#SVGID_1_-1)"/>
+<g>
+<path d="M 45.883 40.321 C 45.813 40.321 45.746 40.330997 45.677 40.330997 C 45.677 40.326996 45.677 40.323997 45.677 40.321 C 45.677 30.639 37.828 22.789 28.145998 22.789 C 18.463997 22.789 10.613998 30.638 10.613998 40.321 C 10.613998 40.842 10.613998 74.422 10.613998 74.422 C 10.613998 74.952995 11.044998 75.383995 11.575998 75.383995 C 11.575998 75.383995 45.302002 75.383995 45.881996 75.383995 C 55.563995 75.383995 63.412994 67.534996 63.412994 57.852997 C 63.413994 48.17 55.564995 40.321 45.882996 40.321 z " fill="#ff1a4f"/>
+</g>
+</g>
+</g>
+</svg>

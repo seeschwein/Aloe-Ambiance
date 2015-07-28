@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="360px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 360 360" width="360px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="180.0005" x2="180.0005" y1="315.001" y2="45.001">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.2727" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fafcef"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="252.3262" x2="252.3262" y1="288.6602" y2="218.0898">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.2"/>
+<stop offset="0.3091" stop-color="#ffffff"/>
+<stop offset="0.7212" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="244.2656" x2="244.2656" y1="143.4199" y2="136.3599">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.2"/>
+<stop offset="0.3091" stop-color="#ffffff"/>
+<stop offset="0.7212" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="106.4468" x2="106.4468" y1="289.9609" y2="218.5469">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.2"/>
+<stop offset="0.3091" stop-color="#ffffff"/>
+<stop offset="0.7212" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="115.104" x2="115.104" y1="143.8745" y2="137.0391">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.2"/>
+<stop offset="0.3091" stop-color="#ffffff"/>
+<stop offset="0.7212" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="113.3325" x2="246" y1="75.5391" y2="75.5391">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.2"/>
+<stop offset="0.3091" stop-color="#ffffff"/>
+<stop offset="0.7212" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<radialGradient cx="672.8867" cy="2029.0244" gradientTransform="matrix(3.7726 0 0 3.7837 -2359.6062 -7449.541)" gradientUnits="userSpaceOnUse" r="15.6577">
+<stop offset="0" stop-color="#a09c98"/>
+<stop offset="0.2303" stop-color="#a09c98"/>
+<stop offset="1" stop-color="#f4f5e9" stop-opacity="0.0714"/>
+</radialGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="143.8076" x2="212.9385" y1="228.0742" y2="228.0742">
+<stop offset="0" stop-color="#bdbbb4" stop-opacity="0.6812"/>
+<stop offset="0.3394" stop-color="#807c79"/>
+<stop offset="0.6606" stop-color="#807c79"/>
+<stop offset="1" stop-color="#bdbbb4" stop-opacity="0.6812"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="143.8076" x2="212.9385" y1="229.5742" y2="229.5742">
+<stop offset="0" stop-color="#bdbbb4" stop-opacity="0.6812"/>
+<stop offset="0.3394" stop-color="#807c79"/>
+<stop offset="0.6606" stop-color="#807c79"/>
+<stop offset="1" stop-color="#bdbbb4" stop-opacity="0.6812"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="112.9541" x2="246.9951" y1="187.751" y2="187.751">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.1"/>
+<stop offset="0.4" stop-color="#ffffff"/>
+<stop offset="0.6667" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="112.7495" x2="246.5" y1="188.3418" y2="188.3418">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.1"/>
+<stop offset="0.4" stop-color="#ffffff"/>
+<stop offset="0.6667" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.1"/>
+</linearGradient>
+<path d="M 180.01562 49.281254 C 140.17224 49.281254 107.85938 79.50807 107.85938 118.562515 C 108.42822 147.67607 120.885056 179.48274 140.29688 198.87502 C 98.24892 215.79462 67.12687 258.81506 62.140617 310.71875 L 297.85938 310.71875 C 292.8626 258.6535 261.57007 215.53418 219.32812 198.71878 C 239.14671 178.81155 251.90068 146.22676 252.14062 118.56251 C 252.14062 79.50807 219.85902 49.281242 180.01562 49.281242 z " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+</svg>

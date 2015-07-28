@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="70px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 70 70" width="70px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="70" width="70"/>
+<radialGradient cx="152.5" cy="-64" gradientTransform="matrix(1 0 0 -1 -117.5 -29)" gradientUnits="userSpaceOnUse" r="35">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.4"/>
+</radialGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -117.5 -29)" gradientUnits="userSpaceOnUse" x1="152.499" x2="152.499" y1="-37.646" y2="-96.74">
+<stop offset="0" stop-color="#355ca6"/>
+<stop offset="1" stop-color="#4d8dca"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34.9995" x2="34.9995" y1="3.6265" y2="37.0452">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 471.74124 397.78333 C 471.74124 435.16208 441.4398 465.46356 404.06104 465.46356 C 366.68225 465.46356 336.3808 435.16208 336.3808 397.78333 C 336.3808 360.40457 366.68225 330.1031 404.06104 330.1031 C 441.4398 330.1031 471.74124 360.40457 471.74124 397.78333 z " fill="#ffffff" fill-opacity="0.11764706" fill-rule="nonzero" stroke="none" stroke-opacity="0.53879311" transform="matrix(0.48019937,0,0,0.48019937,-159.02984,-156.0153)"/>
+</svg>

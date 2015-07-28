@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_-1" x1="12.8065" x2="85.282898" y1="73.193497" y2="0.71710002">
+<stop offset="0" stop-color="#7f34b8"/>
+<stop offset="0.9951" stop-color="#f33b82"/>
+<stop offset="1" stop-color="#f33b82"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3832" x1="19.739637" x2="87.280907" y1="75.70359" y2="8.162323">
+<stop offset="0" stop-color="#7f34b8"/>
+<stop offset="0.9951" stop-color="#f33b82"/>
+<stop offset="1" stop-color="#f33b82"/>
+</linearGradient>
+</defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="8" y2="88.0005">
+<stop offset="0" stop-color="#b30dac"/>
+<stop offset="1" stop-color="#511475"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path color="#000000" d="M 48.0 8.0 C 25.908195 8.0 8.0 25.908195 8.0 48.0 C 8.0 70.090866 25.908195 88.0 48.0 88.0 C 70.091805 88.0 88.0 70.090866 88.0 48.0 C 88.0 47.404217 88.0 9.34375 88.0 9.34375 C 88.0 8.6074505 87.39255 8.0 86.65625 8.0 L 48.0 8.0 z " display="inline" fill="url(#linearGradient3832)" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-width="0" visibility="visible"/>
+<rect fill="none" height="96" width="96"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="51.5" x2="51.5" y1="29" y2="67.0005">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.3232" stop-color="#fafcef"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</linearGradient>
+<g display="none" transform="matrix(0.93676815,0,0,0.93676815,7.7189695,7.7189695)"/>
+<path color="#000000" d="M 48.0 18.0 C 31.431456 18.0 18.0 31.431456 18.0 48.0 C 18.0 64.56854 31.431456 78.0 48.0 78.0 C 64.56854 78.0 78.0 64.56854 78.0 48.0 C 78.0 31.431456 64.56854 18.0 48.0 18.0 z " display="inline" fill="#ffa6a3" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-width="0" visibility="visible"/>
+<path color="#000000" d="M 40.90625 35.78125 C 40.364864 35.82646 40.0 36.28125 40.0 37.28125 L 40.0 58.8125 C 40.0 59.90852 40.88277 60.631046 42.03125 59.96875 C 43.17879 59.306458 59.95869 49.642174 60.6875 49.21875 C 61.741364 48.600483 61.80038 47.517624 60.6875 46.875 C 59.573685 46.232376 43.1179 36.712017 42.03125 36.09375 C 41.623756 35.861195 41.23108 35.754124 40.90625 35.78125 z " display="inline" fill="#527490" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-width="0" visibility="visible"/>
+</svg>

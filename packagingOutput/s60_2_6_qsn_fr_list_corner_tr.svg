@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="8px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 313 8" width="313px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="156.4993" x2="156.4993" y1="-0.167" y2="58.3962">
+<stop offset="0" stop-color="#355ca6"/>
+<stop offset="1" stop-color="#4d8dca"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.3809524,-2.1295166e-8,-7.9999999)" gradientUnits="userSpaceOnUse" x1="156.4993" x2="156.4993" y1="-8.1669998" y2="50.393299">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.50980395"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.3809524,-1.8518066e-6,-1.4898682e-8)" gradientUnits="userSpaceOnUse" x1="156.4993" x2="156.4993" y1="-8.1669998" y2="50.393299">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.50980395"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.3809524,-2.1295166e-8,-7.9999999)" gradientUnits="userSpaceOnUse" x1="156.4993" x2="156.4993" y1="2.6198244" y2="39.606464">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.50980395"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.3809524,1.7709961e-6,0)" gradientUnits="userSpaceOnUse" id="linearGradient3017-1" x1="156.4993" x2="156.4993" y1="0" y2="42">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.50980395"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect fill="url(#linearGradient3017-1)" height="58" width="313" x="0" y="0"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg baseProfile="tiny" height="26px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 26 26" width="26px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" zoomAndPan="magnify">
+<g>
+<path d="M 0.0 0.0 L 0.0 22.534 C 0.0 24.447 1.553 26.0 3.467 26.0 L 26.0 26.0 L 26.0 0.0 L 0.0 0.0 z "/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="12.9995" x2="12.9995" y1="0" y2="26.0005">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 0.0 0.0 L 0.0 22.534 C 0.0 24.447 1.553 26.0 3.467 26.0 L 26.0 26.0 L 26.0 0.0 L 0.0 0.0 z " fill="url(#SVGID_1_)" fill-opacity="0.15" stroke-opacity="0.15"/>
+<rect fill="#ffffff" fill-opacity="0.1" height="0.867" stroke-opacity="0.1" width="25.992" x="0.008" y="0.867"/>
+<rect fill-opacity="0.35" height="0.867" stroke-opacity="0.35" width="25.992" x="0.008"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="13.4897" x2="13.4897" y1="24.4414" y2="16.8473">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.13"/>
+</linearGradient>
+<path d="M 0.979 20.198 C 0.979 20.761 0.979 20.737 0.979 20.737 C 0.979 22.862999 4.629 24.581999 20.865 24.581999 L 26.0 24.581999 L 26.0 20.197998 L 0.979 20.197998 z " fill="url(#SVGID_2_)" fill-opacity="0.1" stroke-opacity="0.1"/>
+</g>
+</svg>

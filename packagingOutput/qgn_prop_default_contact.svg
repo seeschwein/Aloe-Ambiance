@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="80px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 78 80" width="78px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<radialGradient cx="301.3047" cy="1901.9932" gradientTransform="matrix(1 0 0 1 -262.2603 -1878.6563)" gradientUnits="userSpaceOnUse" r="32.13">
+<stop offset="0" stop-color="#fdfef9"/>
+<stop offset="0.2121" stop-color="#fdfef9"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</radialGradient>
+<radialGradient cx="301.1416" cy="1933.3428" gradientTransform="matrix(1 0 0 1 -262.2603 -1878.6563)" gradientUnits="userSpaceOnUse" r="8.3934">
+<stop offset="0" stop-color="#000000" stop-opacity="0.5"/>
+<stop offset="0.4" stop-color="#000000" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#595959" stop-opacity="0"/>
+</radialGradient>
+<g transform="matrix(1.0774544,0,0,1.0774544,-3.4592728,-4.2098731)">
+<path color="#000000" d="M 39.298645 23.076578 C 32.751175 23.076578 27.448933 28.03882 27.448933 34.456635 C 27.542412 39.24088 29.569677 44.45631 32.759624 47.64305 C 25.84988 50.423454 20.753874 57.502438 19.93448 66.03178 L 58.662804 66.03178 C 57.841686 57.475895 52.707035 50.406338 45.765408 47.64305 C 49.0222 44.371696 51.108925 39.002705 51.148354 34.456635 C 51.148354 28.038818 45.84612 23.076576 39.29864 23.076576 z " display="inline" fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible"/>
+<path color="#000000" d="M 11.805868 16.03178 C 10.115147 16.03178 8.771187 17.375734 8.771187 19.066462 L 8.771187 62.9971 C 8.771187 64.68783 10.115147 66.031784 11.805868 66.031784 L 67.00818 66.031784 C 68.698906 66.031784 70.04286 64.68783 70.04286 62.9971 L 70.04286 19.066463 C 70.04286 17.375736 68.698906 16.031782 67.00818 16.031782 L 11.805866 16.031782 z " display="inline" fill="#ffffff" fill-opacity="0.5098038" fill-rule="nonzero" stroke="none" visibility="visible"/>
+</g>
+</svg>
